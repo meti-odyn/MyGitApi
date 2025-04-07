@@ -1,0 +1,44 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Java build directory
+/target/
+/out/
+
+# Maven
+.mvn/
+target/
+pom.xml.versionsBackup
+pom.xml.tag
+
+# Gradle
+.gradle/
+build/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Eclipse specific files
+.project
+.classpath
+.settings/
+
+# Spring-specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse specific files
+.settings/
+*.classpath
+*.project
+*.loadpath
+*.recommenders
